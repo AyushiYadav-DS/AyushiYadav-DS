@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 🎓 Certified Data Science Fresher with a strong foundation in Python, SQL, Statistics, Machine Learning, Deep learning and some data visualization tools like Power Bi and Tableau. <br>
 
