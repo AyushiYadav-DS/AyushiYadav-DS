@@ -1,21 +1,13 @@
-# About Me:
+## 👋 Hi, I'm Ayushi Yadav
 
-🎓 Certified Data Science Fresher with a strong foundation in Python, SQL, Statistics, Machine Learning, Deep learning and some data visualization tools like Power Bi and Tableau. <br>
+🎓 Certified Data Science Fresher <br>
+💡 Skilled in Python, SQL, Power BI, and Machine Learning   <br>
+📊 Built projects in EDA, NLP, and Predictive Modeling  <br> 
+📚 Passionate about solving real-world problems through data   <br>
+🤝 Always open to collaboration, learning, and innovation   <br>
 
-📊 Skilled in data cleaning, exploratory data analysis (EDA), and visual storytelling using real-world datasets  <br>
-
-🤖 Completed a capstone project involving predictive modeling and Natural Language Processing (NLP)  <br>
-
-🧠 Trained in applying machine learning algorithms to uncover patterns and make data-driven predictions  <br>
-
-📈 Comfortable working with structured & unstructured data, and building interactive dashboards  <br>
-
-💡 Analytical thinker with a growth mindset and a passion for solving real-life business problems  <br>
-
-🤝 Enthusiastic about collaboration, innovation, and continuous learning in the field of data science  <br>
-
-🚀 Eager to contribute to impactful projects and grow as a data-driven problem solver  <br>
-
+### 🔧 Tools & Technologies
+- Python | SQL | Power BI | Pandas | Scikit-learn | NLTK | Jupyter | Git
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayushi Yadav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ayushiyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushiyadav758@gmail.com) 
