@@ -1,5 +1,20 @@
 # 💫 About Me:
-I’m a data science professional with skills in Python, SQL, Power BI, machine learning, and exploratory data analysis (EDA). I’ve worked with raw data, focusing on data cleaning, pattern discovery, and building predictive models. My projects have involved applying NLP techniques to analyze text data and using machine learning algorithms to gain insights from structured datasets.<br>With a strong analytical background and a passion for solving complex problems, I’m eager to contribute to data-driven solutions. I’m especially interested in opportunities where I can continue learning, work on innovative projects, and create value through data<br><br>I believe in the power of collaboration and am eager to connect with fellow professionals and enthusiasts in the data science community. Whether it’s sharing knowledge, discussing industry trends, or collaborating on projects, I am open to opportunities that allow me to learn and contribute.
+
+🎓 Certified Data Science Fresher with a strong foundation in Python, SQL, Power BI, and Machine Learning <br>
+
+📊 Skilled in data cleaning, exploratory data analysis (EDA), and visual storytelling using real-world datasets  <br>
+
+🤖 Completed a capstone project involving predictive modeling and Natural Language Processing (NLP)  <br>
+
+🧠 Trained in applying machine learning algorithms to uncover patterns and make data-driven predictions  <br>
+
+📈 Comfortable working with structured & unstructured data, and building interactive dashboards  <br>
+
+💡 Analytical thinker with a growth mindset and a passion for solving real-life business problems  <br>
+
+🤝 Enthusiastic about collaboration, innovation, and continuous learning in the field of data science  <br>
+
+🚀 Eager to contribute to impactful projects and grow as a data-driven problem solver  <br>
 
 
 ## 🌐 Socials:
